@@ -1,7 +1,6 @@
-================================================================================
+
                            OUR TRANSLATOR
               Ai based Translation Desktop Application
-================================================================================
 
 Adding code as soon as Mac and Linux done and code cleaned up
 
@@ -10,9 +9,7 @@ Russian using Google's Gemini AI, with features like translation history,
 saved phrases, word of the day, and customizable hotkeys.
 
 
---------------------------------------------------------------------------------
 FEATURES OVERVIEW
---------------------------------------------------------------------------------
 
 TRANSLATION:
   • Auto-detect source language
@@ -44,9 +41,7 @@ HOTKEYS (Default):
   • Ctrl+N - New translation
 
 
---------------------------------------------------------------------------------
 TECHNICAL INFORMATION
---------------------------------------------------------------------------------
 
 Application: Our Translator
 Version: 1.0.0
@@ -58,17 +53,12 @@ Installation Location: C:\Program Files\Our Translator
 Data Location: %APPDATA%\our-translator
 
 
---------------------------------------------------------------------------------
 CREDITS
---------------------------------------------------------------------------------
 
 Translation API: Google Gemini AI
 UI Framework: Electron
 Design: Glass morphism with gradient themes by her
 Code: powertrip
 
-================================================================================
-
 Thank you for using Our Translator! Happy translating! 💜
 
-================================================================================
